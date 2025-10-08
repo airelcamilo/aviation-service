@@ -151,3 +151,4 @@ A ready-to-use Postman collection is available in this repository for easier tes
 
 * Airport data powered by [AviationAPI](https://www.aviationapi.com/)
 * Weather data powered by [WeatherAPI](https://www.weatherapi.com/)
+* Airel Camilo Khairan © 2025
